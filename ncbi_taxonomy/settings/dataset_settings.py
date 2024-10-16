@@ -60,16 +60,6 @@ class DatasetSettings:
             "downloads_directory": self._downloads_directory,
         }
 
-    def include_owl(self) -> "DatasetSettings":
-        """Include the OWL data in the download objectives."""
-        self._owl_data = True
-        return self
-
-    def include_json(self) -> "DatasetSettings":
-        """Include the JSON data in the download objectives."""
-        self._json_data = True
-        return self
-
     def set_downloads_directory(self, directory: str) -> "DatasetSettings":
         """Sets the directory to download files."""
         self._downloads_directory = directory

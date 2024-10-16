@@ -9,7 +9,7 @@ from ncbi_taxonomy import Dataset, DatasetSettings
 
 def build_ncbi_taxonomy(version: str) -> Dataset:
     """Build a version of the NCBI Taxonomy."""
-    settings = DatasetSettings(version=version).include_all.set_verbose()
+    settings = DatasetSettings(version=version).include_all().set_verbose()
     return Dataset.build(settings)
 
 
