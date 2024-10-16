@@ -1,0 +1,1 @@
+include ncbi_taxonomy/settings/versions/*.json

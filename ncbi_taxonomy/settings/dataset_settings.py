@@ -4,6 +4,7 @@ import os
 from typing import Any, Dict, List
 
 import compress_json
+
 from ncbi_taxonomy.exceptions import UnavailableEntry, VersionException
 from ncbi_taxonomy.utils.download_objective import DownloadObjective
 
@@ -55,9 +56,6 @@ class DatasetSettings:
         return {
             "version_metadata": self._version_metadata,
             "verbose": self._verbose,
-            "tsv_data": self._tsv_data,
-            "json_data": self._json_data,
-            "owl_data": self._owl_data,
             "to_include": self._to_include,
             "downloads_directory": self._downloads_directory,
         }
