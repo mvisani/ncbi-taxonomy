@@ -1,0 +1,9 @@
+{
+    "version": "2022-10-05",
+    "year": 2022,
+    "month": 10,
+    "day": 5,
+    "tsv": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2022-10-05/ncbitaxon_kgx_tsv.tar.gz",
+    "owl": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2022-10-05/ncbitaxon.owl",
+    "json": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2022-10-05/ncbitaxon.json"
+}

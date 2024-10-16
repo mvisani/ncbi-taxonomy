@@ -1,0 +1,9 @@
+{
+    "version": "2023-06-20",
+    "year": 2023,
+    "month": 6,
+    "day": 20,
+    "tsv": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2023-06-20/ncbitaxon_kgx_tsv.tar.gz",
+    "owl": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2023-06-20/ncbitaxon.owl",
+    "json": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2023-06-20/ncbitaxon.json"
+}

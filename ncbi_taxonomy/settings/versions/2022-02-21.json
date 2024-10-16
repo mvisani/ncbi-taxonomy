@@ -1,0 +1,9 @@
+{
+    "version": "2022-02-21",
+    "year": 2022,
+    "month": 2,
+    "day": 21,
+    "tsv": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2022-02-21/ncbitaxon_kgx_tsv.tar.gz",
+    "owl": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2022-02-21/ncbitaxon.owl",
+    "json": "https://kg-hub.berkeleybop.io/kg-obo/ncbitaxon/2022-02-21/ncbitaxon_kgx.json"
+}
